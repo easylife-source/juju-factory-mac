@@ -10,7 +10,6 @@ This Version Of JUJU Builder is for macOS Only!
 Windows Version is avalible,[click here to test it out](https://github.com/easylife-source/juju-factory)!
 ---------------------------------------------------------------------------------------------------------
 Linux Bash Version is avalible in alpha status,[click here to test it out](https://github.com/easylife-source/juju-factory-bash)!
-
 -----------------------------------------------------------
 ### Support or Contact
 
