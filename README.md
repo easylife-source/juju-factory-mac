@@ -6,7 +6,9 @@ This project is still in alpha status,it might crash or broke the app.This Progr
 
 -----------------------------------------------------------
 This Version Of JUJU Builder is for macOS Only!
+------------------------------------------------------------
 Windows Version is avalible,[click here to test it out](https://github.com/easylife-source/juju-factory)!
+---------------------------------------------------------------------------------------------------------
 Linux Bash Version is avalible in alpha status,[click here to test it out](https://github.com/easylife-source/juju-factory-bash)!
 
 -----------------------------------------------------------
